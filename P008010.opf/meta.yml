@@ -7,11 +7,12 @@ source_metadata:
     '
   author: ''
   volumes:
-    ecc98a48ad454ef6bb2e1e626a521bb4:
+    a4f8b7a6d360479cb112ce6ee7d1bdc1:
       image_group_id: I4PD4237
-      title: ''
+      title: Volume 1 of 口述当代西藏第一
       volume_number: 1
       total_pages: 266
+      base_file: v001.txt
 ebook_metadata:
   title: '口述当代西藏第一
 
