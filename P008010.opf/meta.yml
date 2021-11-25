@@ -1,5 +1,7 @@
 id: P008010
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2PD17614
   title: '口述当代西藏第一
@@ -13,12 +15,3 @@ source_metadata:
       volume_number: 1
       total_pages: 266
       base_file: v001.txt
-ebook_metadata:
-  title: '口述当代西藏第一
-
-    '
-  author: ''
-  sku: P008010
-  cover: cover.jpg
-  layers:
-  - pagination
